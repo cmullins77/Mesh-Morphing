@@ -64,3 +64,4 @@ int[] orderToVisit(cpoint points[]) {
     
     return indexOrder;
 }
+
